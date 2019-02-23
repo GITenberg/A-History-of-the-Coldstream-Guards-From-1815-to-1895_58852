@@ -5,12 +5,17 @@ contributor:
     agent_name: Wilkinson, Nevile R.
     gutenberg_agent_id: '50185'
     url: http://www.gutenberg.org/2009/agents/50185
+covers:
+- cover_type: archival
+  image_path: 58852-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross-of-Bladensburg, C.B.
     gutenberg_agent_id: '50184'
     url: http://www.gutenberg.org/2009/agents/50184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58852#A-History-of-the-Coldstream-Guards-From-1815-to-1895
 gutenberg_issued: '2019-02-10'
 gutenberg_type: Text
 identifiers:
